@@ -6,6 +6,42 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/azamatjon_ergashevv/)
 
 
+
+
+👋 About Me
+
+Frontend Developer specializing in React and Next.js, with a strong focus on clean code, clear user interfaces, and solid fundamentals.
+
+I currently work as a Frontend Developer at U Tech Pro Solutions, where I build scalable and maintainable web applications. Alongside this, I am a Mentor at Mars IT School, teaching frontend development to students from beginner to advanced levels and helping them build strong foundations in modern web technologies.
+
+I am a lifelong learner who values continuous growth. I regularly read technical and self-development books, believing that strong thinking and discipline are just as important as technical skills in the long run.
+
+Languages:
+
+Uzbek — Native
+
+Russian — B2
+
+English — B2
+
+Soft Skills:
+
+Clear and structured communication
+
+Patience and consistency in teaching and teamwork
+
+Strong sense of responsibility
+
+Ability to explain complex topics in a simple and practical way
+
+Calm and focused approach to problem-solving
+
+I believe in steady progress, honest work, and building skills that stand the test of time.
+
+
+
+
+
 🎨 Frontend asoslari
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
