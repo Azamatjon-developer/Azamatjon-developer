@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/azamatjon_ergashevv/)
 
 
-
-
 👋 About Me
 
 Frontend Developer specializing in React and Next.js, with a strong focus on clean code, clear user interfaces, and solid fundamentals.
@@ -16,13 +14,8 @@ I currently work as a Frontend Developer at U Tech Pro Solutions, where I build 
 
 I am a lifelong learner who values continuous growth. I regularly read technical and self-development books, believing that strong thinking and discipline are just as important as technical skills in the long run.
 
-Languages:
+Languages: Uzbek — Native , Russian — B2 , English — B2
 
-Uzbek — Native
-
-Russian — B2
-
-English — B2
 
 Soft Skills:
 
@@ -37,7 +30,6 @@ Ability to explain complex topics in a simple and practical way
 Calm and focused approach to problem-solving
 
 I believe in steady progress, honest work, and building skills that stand the test of time.
-
 
 
 
@@ -59,7 +51,6 @@ I believe in steady progress, honest work, and building skills that stand the te
 ⚛️ React & UI kutubxonalar
 
 
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react)
@@ -68,14 +59,12 @@ I believe in steady progress, honest work, and building skills that stand the te
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 
 
-
 🚀 Framework
-
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-🧠 Version control
 
+🧠 Version control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
