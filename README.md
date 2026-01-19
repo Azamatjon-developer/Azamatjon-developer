@@ -13,14 +13,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code
-&size=16
-&pause=1000
-&color=FFFFFF
-&width=600
-&lines=Frontend+Developer+specializing+in+React+and+Next.js;
-Building+clean%2C+scalable+web+applications;
-Mentor+at+Mars+IT+School+focused+on+fundamentals" />
-
+&size=17
+&pause=1200
+&color=9BE9A8
+&width=650
+&lines=👋+Hi,+I'm+Azamatjon;
+Frontend+Developer+%7C+React+%26+Next.js;
+Mentor+focused+on+strong+fundamentals" />
 
 
 
