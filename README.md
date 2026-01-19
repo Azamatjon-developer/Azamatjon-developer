@@ -6,36 +6,22 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/azamatjon_ergashevv/)
 
 
-<h2>👋 About Me</h2>
 
-<div style="font-size:16px; line-height:1.6">
 
-  <p style="opacity:0; animation: fadeIn 1s ease forwards;">
-    Frontend Developer specializing in React and Next.js.
-  </p>
 
-  <p style="opacity:0; animation: fadeIn 1s ease forwards; animation-delay: 0.8s;">
-    Building clean, scalable, and user-focused web applications.
-  </p>
+## 👋 About Me
 
-  <p style="opacity:0; animation: fadeIn 1s ease forwards; animation-delay: 1.6s;">
-    Mentor at Mars IT School, teaching strong fundamentals and real-world thinking.
-  </p>
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=16
+&pause=1000
+&color=FFFFFF
+&width=600
+&lines=Frontend+Developer+specializing+in+React+and+Next.js;
+Building+clean%2C+scalable+web+applications;
+Mentor+at+Mars+IT+School+focused+on+fundamentals" />
 
-</div>
 
-<style>
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(6px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
 
 
 Frontend Developer specializing in React and Next.js, with a strong focus on clean code, clear user interfaces, and solid fundamentals.
