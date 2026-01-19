@@ -1,14 +1,5 @@
 # Azamatjon — Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=16
-&pause=1300
-&color=9BE9A8
-&width=650
-&lines=Hi,+I'm+Azamatjon;
-Frontend+Developer+—+React+%26+Next.js;
-Mentor+focused+on+strong+fundamentals" />
 
 ---
 
